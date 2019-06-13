@@ -1,5 +1,7 @@
 # Data-Visualization---Transforming-raw-data-into-graphs
 
+My blog post on the project: https://sophiehlee2.wixsite.com/dsblog/post/visualizing-crimes-in-new-orleans
+
 ## Introduction
 Analyzing the trends of the crimes from 2018 in New Orleans using Python. This analysis is focused on visualizing the statistics of the crime data. 
 
